@@ -1,0 +1,10 @@
+dist/
+bin/
+obj/
+*.zip
+*.sha256.txt
+*.log
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
